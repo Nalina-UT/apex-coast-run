@@ -4,7 +4,7 @@ A browser-based 3D racing game built with HTML, CSS, JavaScript, and Three.js.
 
 ## 🎮 Live Demo
 
-[Play APEX — Coast Run](https://nalina-ut.github.io/Apex-racing/)
+[Play APEX — Coast Run](https://nalina-ut.github.io/apex-coast-run/)
 
 Click **Start Your Engine** to begin.
 
